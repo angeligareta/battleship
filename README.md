@@ -37,10 +37,15 @@ Finally it will show the number of rounds left to guess the opponent boat.
 
 ### Example
 Starting the Game
+
 ![Starting the Game](docs/screenshot-1.png)
+
 Game Finished - Win
+
 ![Game Finished - Win](docs/screenshot-2.png)
+
 Game Finished - Loose
+
 ![Game Finished - Loose](docs/screenshot-3.png)
 
 ## Authors
