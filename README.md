@@ -34,15 +34,21 @@ First of all we have to choose the size of the board, followed by the desired di
 ## Screenshots
 *Starting the Game*
 
-<img src="docs/screenshot-1.png" alt="Starting the Game" style="width: 40%;"/>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="docs/screenshot-1.png" alt="Starting the Game" style="width: 40%;"/>
+</div>
 
 *Game Finished - Win*
 
+<div style="display: flex; align-items: center; justify-content: center;">
 <img src="docs/screenshot-2.png" alt="Game Finished - Win" style="width: 40%;"/>
+</div>
 
 *Game Finished - Loose*
 
+<div style="display: flex; align-items: center; justify-content: center;">
 <img src="docs/screenshot-3.png" alt="Game Finished - Loose" style="width: 40%;"/>
+</div>
 
 ## Authors
 - [Ángel Igareta](https://github.com/AngelIgareta)
