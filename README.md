@@ -1,13 +1,11 @@
-# Sink The Float
-Implementation of the famous game Sink The Float in Prolog. It's implemented as we were playing vs the Machine but we don't have a board, only the Machine has.
+<h1 align="center">Sink The Float</h1>
+<h4 align="center">Implementation of the infamous game Sink The Float using the logic programming language Prolog</h4>
 
-## Index
-* [About](#about)
-  * [Features](#features)  
-* [Usage](#usage)
-  * [Example](#example)
-* [Authors](#authors)
-* [License](#license)
+<p align="center">
+  <img alt="ULL" src="https://img.shields.io/badge/University-La%20Laguna-%231954a6?style=flat-square" />  
+  <img alt="License" src="https://img.shields.io/github/license/angeligareta/cheaper-travelling?style=flat-square" />
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/angeligareta/cheaper-travelling?style=flat-square" />
+</p>
 
 ## About
 The aim of the game is to guess were the boat of the opponent is. 
@@ -31,27 +29,18 @@ After that we can start the game writing:
 ```
 play.
 ```
-First of all we have to choose the size of the board.
-Then we choose the difficulty we want.
-Finally it will show the number of rounds left to guess the opponent boat.
+First of all we have to choose the size of the board, followed by the desired difficulty. Finally it will show the number of rounds left to guess the opponent boat.
 
-### Example
-Starting the Game
+## Screenshots
+*Starting the Game*
+<img src="docs/screenshot-1.png" alt="Starting the Game" style="width: 40%;"/>
 
-![Starting the Game](docs/screenshot-1.png)
+*Game Finished - Win*
+<img src="docs/screenshot-2.png" alt="Game Finished - Win" style="width: 40%;"/>
 
-Game Finished - Win
-
-![Game Finished - Win](docs/screenshot-2.png)
-
-Game Finished - Loose
-
-![Game Finished - Loose](docs/screenshot-3.png)
+*Game Finished - Loose*
+<img src="docs/screenshot-3.png" alt="Game Finished - Loose" style="width: 40%;"/>
 
 ## Authors
-[Ángel Luis Igareta Herráiz](https://github.com/AngelIgareta)
-
-[Cristian Abrante Dorta](https://github.com/CristianAbrante)
-
-## License
-[The Mit License.](LICENSE)
+- [Ángel Igareta](https://github.com/AngelIgareta)
+- [Cristian Abrante Dorta](https://github.com/CristianAbrante)
