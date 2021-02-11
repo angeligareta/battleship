@@ -2,7 +2,7 @@
 <h4 align="center">Implementation of the infamous game Sink The Float using the logic programming language Prolog</h4>
 
 <p align="center">
-  <img alt="ULL" src="https://img.shields.io/badge/University-La%20Laguna-%231954a6?style=flat-square" />  
+  <img alt="ULL" src="https://img.shields.io/badge/University-La%20Laguna-%2354048c?style=flat-square" />  
   <img alt="License" src="https://img.shields.io/github/license/angeligareta/cheaper-travelling?style=flat-square" />
   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/angeligareta/cheaper-travelling?style=flat-square" />
 </p>
