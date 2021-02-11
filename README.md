@@ -33,12 +33,15 @@ First of all we have to choose the size of the board, followed by the desired di
 
 ## Screenshots
 *Starting the Game*
+
 <img src="docs/screenshot-1.png" alt="Starting the Game" style="width: 40%;"/>
 
 *Game Finished - Win*
+
 <img src="docs/screenshot-2.png" alt="Game Finished - Win" style="width: 40%;"/>
 
 *Game Finished - Loose*
+
 <img src="docs/screenshot-3.png" alt="Game Finished - Loose" style="width: 40%;"/>
 
 ## Authors
