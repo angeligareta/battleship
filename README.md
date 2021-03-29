@@ -3,8 +3,8 @@
 
 <p align="center">
   <img alt="ULL" src="https://img.shields.io/badge/University-La%20Laguna-%2354048c?style=flat-square" />  
-  <img alt="License" src="https://img.shields.io/github/license/angeligareta/cheaper-travelling?style=flat-square" />
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/angeligareta/cheaper-travelling?style=flat-square" />
+  <img alt="License" src="https://img.shields.io/github/license/angeligareta/sink-the-float?style=flat-square" />
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/angeligareta/sink-the-float?style=flat-square" />
 </p>
 
 ## About
