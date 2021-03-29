@@ -1,10 +1,10 @@
-<h1 align="center">Sink The Float</h1>
-<h4 align="center">Implementation of the infamous game Sink The Float using the logic programming language Prolog</h4>
+<h1 align="center">Battleship</h1>
+<h4 align="center">Implementation of the infamous game Battleship or Sea Battle using the logic programming language Prolog</h4>
 
 <p align="center">
   <img alt="ULL" src="https://img.shields.io/badge/University-La%20Laguna-%2354048c?style=flat-square" />  
-  <img alt="License" src="https://img.shields.io/github/license/angeligareta/sink-the-float?style=flat-square" />
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/angeligareta/sink-the-float?style=flat-square" />
+  <img alt="License" src="https://img.shields.io/github/license/angeligareta/battleship?style=flat-square" />
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/angeligareta/battleship?style=flat-square" />
 </p>
 
 ## About
